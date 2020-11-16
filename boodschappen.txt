@@ -1,0 +1,7 @@
+Pizza ingrediënten:
+-pizzadeeg
+-bloem
+-tomatenpasta
+-mozarealla
+-kaas
+-kip
